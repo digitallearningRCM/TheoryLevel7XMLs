@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="text" question="Select the description of the term.">
+    <question title="agitato" answer="agitated" />
+    <question title="dolente" answer="sad" />
+    <question title="giocoso" answer="humorous, jocose" />
+    <question title="martellato" answer="strongly accented, hammered" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="mesto" answer="sad, mournful" />
+    <question title="morendo" answer="dying, fading away" />
+    <question title="pesante" answer="weighty, with emphasis" />
+    <question title="quindicesima alta, 15ma" answer="two octaves higher" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="risoluto" answer="resolute" />
+    <question title="scherzando" answer="playful" />
+    <question title="semplice" answer="simple" />
+    <question title="sonore" answer="sonorous" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="sopra" answer="above" />
+    <question title="sostenuto" answer="sutained" />
+    <question title="sotto voce" answer="soft, subdued, under the breath" />
+    <question title="tacet" answer="be silent" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="tutti" answer="a passage for the ensemble" />
+    <question title="vivo" answer="lively" />
+    <question title="volta" answer="time (for example, prima volta: first time)" />
+    <question title="solti subito, v.s." answer="turn the page quickly" />
+  </category>
+</questions>
