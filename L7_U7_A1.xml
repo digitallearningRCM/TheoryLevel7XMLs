@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="paragraph" question="" text="'Overture to A midsummer Night's Dream' features which of the following instruments?">
+    <question text="solo keyboard" answer="false" />
+    <question text="Symphony orchestra" answer="true" />
+    <question text="A group of solo instruments contrasted with a full string orchestra" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="In 'Petrushka', the performing forces are...">
+    <question text="solo keyboard" answer="false" />
+    <question text="Symphony orchestra" answer="false" />
+    <question text="Large orchestra with expanded percussion (including piano)" answer="true" />
+  </category>
+  <category type="paragraph" question="" text="The 'Revolutionary Etude' features which of the following instruments?">
+    <question text="Symphony orchestra" answer="false" />
+    <question text="Piano" answer="true" />
+    <question text="A group of solo instruments contrasted with a full string orchestra" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="'Dripsody' features which of the following instruments?">
+    <question text="Piano" answer="false" />
+    <question text="Recorded sound of dripping water" answer="true" />
+    <question text="Big band orchestra" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="'Ko-Ko' is often performed by...">
+    <question text="A big band orchestra including brass, reeds, and rhythm section" answer="true" />
+    <question text="A symphony orchestra" answer="false" />
+    <question text="A piano" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Felix Mendelssohn is one of the best known composers of which era?">
+    <question text="The Baroque era" answer="false" />
+    <question text="The Classical era" answer="false" />
+    <question text="The Romantic era" answer="true" />
+  </category>
+  <category type="paragraph" question="" text="Igor Stravinsky is one of the best known composers of which era?">
+    <question text="The Classical era" answer="false" />
+    <question text="The Romantic era" answer="false" />
+    <question text="The Modern era" answer="true" />
+  </category>
+  <category type="paragraph" question="" text="Music concrete is...">
+    <question text="An early form of electronic music" answer="true" />
+    <question text="A uniquely American musical style developed initally by African Americans in New Orleans, Chicago, and New York" answer="false" />
+    <question text="A genre developed in the 17th century that flourised in the Romantic era" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Polytonality is most associated with which era?">
+    <question text="The Classical era" answer="false" />
+    <question text="The Romantic era" answer="false" />
+    <question text="The Modern era" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="The Petrushka Chord is a...">
+    <question text="polychord consisting of a C major and F sharp minor triad" answer="true" />
+    <question text="a diminished seventh chord" answer="false" />
+    <question text="a triad built on the subdominant in A minor" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Composers often create Nationalism in music by...">
+    <question text="Drawing on native folk songs, dances, myths, and legends" answer="true" />
+    <question text="Using extensive notes outside of the key signature" answer="false" />
+    <question text="providing a descriptive title that identifies the music's connection to what is being depicted" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="The rise of program music is often associated with which era?">
+    <question text="The Classical era" answer="false" />
+    <question text="The Romantic era" answer="true"></question>
+    <question text="The Modern era" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Program music is music with...">
+    <question text="extra-musical associations inspired by literature, visual arts, historical events, or scenes from nature" answer="true" />
+    <question text="rhythmic flexiblity achieved through subtle adjusments" answer="false"></question>
+    <question text="two or more keys sounding simulateously, creating dissonance" answer="false" />
+  </category>
+</questions>

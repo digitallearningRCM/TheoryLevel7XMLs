@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="paragraph" question="" text="Who composed 'Overture to A Midsummer Night's Dream'?">
+    <question text="Felix Mendelssohn" answer="true" />
+    <question text="Frédéric Chopin" answer="false" />
+    <question text="Igor Stravinksy" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Who composed Etude in C minor, Op. 10, no. 12 ('Revolutionary'?">
+    <question text="George Frideric Handel" answer="false" />
+    <question text="Frédéric Chopin" answer="true" />
+    <question text="Igor Stravinsky" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Who composed 'Petruska'?">
+    <question text="Frédéric Chopin" answer="false"></question>
+    <question text="Igor Stravinsky" answer="true" />
+    <question text="Felix Menselssohn" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Who composed 'Dripsody'?">
+    <question text="Hugh LeCaine" answer="true" />
+    <question text="Igor Stravinsky" answer="false" />
+    <question text="Duke Ellington" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Who composed 'Ko-ko'?">
+    <question text="Igor Stravinksy" answer="false" />
+    <question text="Hugh LeCaine" answer="false" />
+    <question text="Duke Ellington" answer="true" />
+  </category>
+  <category type="paragraph" question="" text="'Overture to A Midsummer Night's Dream' is...">
+    <question text="A concert overture" answer="true" />
+    <question text="A ballet" answer="false" />
+    <question text="An étude" answer="false"></question>
+  </category>
+  <category type="paragraph" question="" text="Etude in C Minor, op. 10, no. 12 ('Revolutionary') is...">
+    <question text="A concert overture" answer="false" />
+    <question text="A solo piano work" answer="true" />
+    <question text="A ballet" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="'Petrushka' is a...">
+    <question text="A ballet" answer="true" />
+    <question text="solo work often written as a musical exercise for students" answer="false" />
+    <question text="A concert overture" answer="false"></question>
+  </category>
+  <category type="paragraph" question="" text="'The Crowd Fevels at the Shrovetide Fair' comes from">
+    <question text="'Petrushka'" answer="true" />
+    <question text="'Overture to A Midsummer Night's Dream'" answer="false" />
+    <question text="'Dripsody'" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="'Ko-Ko' is an example of...">
+    <question text="Twelve-bar blues" answer="true" />
+    <question text="Electronic music" answer="false" />
+    <question text="Ballet" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="'Dripsody' is an example of...">
+    <question text="Jazz" answer="false" />
+    <question text="Electronic music" answer="true" />
+    <question text="Program music" answer="false" />
+    <question text="Invention" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="'Ko-Ko' falls under which of the following genres?">
+    <question text="Twelve-bar blues" answer="true" />
+    <question text="Blue grass" answer="false" />
+    <question text="musique concrete" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Which of the following opens with four sustained chords that evoke a magical fairy kingdom?">
+    <question text="'Ko-Ko'" answer="false" />
+    <question text="'Overture to A Midsummer Night's Dream'" answer="true" />
+    <question text="The 'Revolutionary Etude'" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="A ballet is defined as...">
+    <question text="A work that focuses on developing the technical skill of the performer" answer="false" />
+    <question text="A category of program music" answer="false" />
+    <question text="a story told through music and a highly stylized form of dance" answer="true" />
+  </category>
+  <category type="paragraph" question="" text="Jazz is...">
+    <question text="A largely improvised style, featuring syncopation, blues scale, and blue notes" answer="true" />
+    <question text="An early form of electronic music" answer="false" />
+    <question text="Instrumental music with extra-musical associations inspired by literature or scenes from nature" answer="false" />
+    <question text="The most important form invented in the Classical era" answer="false" />
+  </category>
+</questions>
