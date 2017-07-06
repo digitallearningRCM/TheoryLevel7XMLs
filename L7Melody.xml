@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<activities>
+  <activity icon="planet-melody" title="NON-CHORD TONES" description="Identify the circled note as a chord tone, passing tone, or neighbor tone using the picker." xmlFile="L6_U6_A0" />
+  <activity icon="planet-melody" title="CONTRASTING PERIODS" description="Given the antecedent phrase, complete the contrasting consequent phrase by dragging the correct measures to the staff." xmlFile="L6_U6_A1" />
+</activities>

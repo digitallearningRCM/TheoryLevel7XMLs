@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<activities>
+  <activity icon="planet-rhythm" title="NOTE AND REST VALUES" description="Select the equal value." xml="L7_U2_A0" />
+  <activity icon="planet-rhythm" title="SIMPLE AND COMPOUND TIME SIGNATURES" description="Identify the time signature." xml="L7_U2_A1" />
+  <activity icon="planet-rhythm" title="RESTS IN SIMPLE AND COMPOUND METERS" description="Select the correct example to complete the measure with rests." xmlFile="L7_U2_A2" />
+</activities>
