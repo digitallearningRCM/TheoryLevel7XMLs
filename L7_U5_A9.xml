@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<questions>
+  <category type="graphicGraphic" question="Select the correct answer to complete the cadence." image="IOS_L7_U5_A9_1_Q">
+    <question image="IOS_L7_U5_A9_1_A1" answer="true"></question>
+    <question image="IOS_L7_U5_A9_1_A2" answer="false"></question>
+    <category type="graphicGraphic" question="Select the correct answer to complete the cadence." image="IOS_L7_U5_A9_2_Q">
+      <question image="IOS_L7_U5_A9_2_A1" answer="true"></question>
+      <question image="IOS_L7_U5_A9_2_A2" answer="false"></question>
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the cadence." image="IOS_L7_U5_A9_3_Q">
+      <question image="IOS_L7_U5_A9_3_A1" answer="true"></question>
+      <question image="IOS_L7_U5_A9_3_A2" answer="false"></question>
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the cadence." image="IOS_L7_U5_A9_4_Q">
+      <question image="IOS_L7_U5_A9_4_A1" answer="true"></question>
+      <question image="IOS_L7_U5_A9_4_A2" answer="false"></question>
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the cadence." image="IOS_L7_U5_A9_5_Q">
+      <question image="IOS_L7_U5_A9_5_A1" answer="true"></question>
+      <question image="IOS_L7_U5_A9_5_A2" answer="false"></question>
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the cadence." image="IOS_L7_U5_A9_6_Q">
+      <question image="IOS_L7_U5_A9_6_A1" answer="true"></question>
+      <question image="IOS_L7_U5_A9_6_A2" answer="false"></question>
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the cadence." image="IOS_L7_U5_A9_7_Q">
+      <question image="IOS_L7_U5_A9_7_A1" answer="true"></question>
+      <question image="IOS_L7_U5_A9_7_A2" answer="false"></question>
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the cadence." image="IOS_L7_U5_A9_8_Q">
+      <question image="IOS_L7_U5_A9_8_A1" answer="true"></question>
+      <question image="IOS_L7_U5_A9_8_A2" answer="false"></question>
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the cadence." image="IOS_L7_U5_A9_9_Q">
+      <question image="IOS_L7_U5_A9_9_A1" answer="true"></question>
+      <question image="IOS_L7_U5_A9_9_A2" answer="false"></question>
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the cadence." image="IOS_L7_U5_A9_10_Q">
+      <question image="IOS_L7_U5_A9_10_A1" answer="true"></question>
+      <question image="IOS_L7_U5_A9_10_A2" answer="false"></question>
+    </category>
+  </category>
+</questions>

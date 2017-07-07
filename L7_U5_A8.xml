@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <question file="IOS_U5_CAD1a" answer1="F#" answer2="minor" answer3="V" answer4="i" answer5="Authentic Cadence" />
+  <question file="IOS_U5_CAD1b" answer1="Ab" answer2="major" answer3="I" answer4="V" answer5="Half Cadence" />
+  <question file="IOS_U5_CAD1c" answer1="C" answer2="minor" answer3="V" answer4="i" answer5="Authentic Cadence" />
+  <question file="IOS_U5_CAD2a" answer1="B" answer2="minor" answer3="V" answer4="i" answer5="Authentic Cadence" />
+  <question file="IOS_U5_CAD2b" answer1="C#" answer2="minor" answer3="V" answer4="i" answer5="Authentic Cadence" />
+  <question file="IOS_U5_CAD2c" answer1="C#" answer2="major" answer3="I" answer4="V" answer5="Half Cadence" />
+  <question file="IOS_U5_CAD3a" answer1="B" answer2="minor" answer3="V" answer4="i" answer5="Authentic Cadence" />
+  <question file="IOS_U5_CAD3b" answer1="C#" answer2="minor" answer3="V" answer4="i" answer5="Authentic Cadence" />
+  <question file="IOS_U5_CAD3c" answer1="C#" answer2="major" answer3="I" answer4="V" answer5="Half Cadence" />
+  <question file="IOS_U5_CAD4a" answer1="A" answer2="minor" answer3="i" answer4="V" answer5="Half Cadence" />
+  <question file="IOS_U5_CAD4b" answer1="A" answer2="major" answer3="V" answer4="I" answer5="Authentic Cadence" />
+  <question file="IOS_U5_CAD4c" answer1="Cb" answer2="major" answer3="IV" answer4="V" answer5="Half Cadence" />
+</questions>
