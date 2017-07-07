@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<questions>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_1_Q">
+    <question image="IOS_L7_U2_A0_N_A1" answer="true"></question>
+    <question image="IOS_L7_U2_A0_N_A2" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A3" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A4" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A5" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A6" answer="false"></question>
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_2_Q">
+    <question image="IOS_L7_U2_A0_N_A1" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A2" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A3" answer="true"></question>
+    <question image="IOS_L7_U2_A0_N_A4" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A5" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A6" answer="false"></question>
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_3_Q">
+    <question image="IOS_L7_U2_A0_N_A1" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A2" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A3" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A4" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A5" answer="true"></question>
+    <question image="IOS_L7_U2_A0_N_A6" answer="false"></question>
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_4_Q">
+    <question image="IOS_L7_U2_A0_N_A1" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A2" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A3" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A4" answer="true"></question>
+    <question image="IOS_L7_U2_A0_N_A5" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A6" answer="false"></question>
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_5_Q">
+    <question image="IOS_L7_U2_A0_N_A1" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A2" answer="true"></question>
+    <question image="IOS_L7_U2_A0_N_A3" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A4" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A5" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A6" answer="false"></question>
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_6_Q">
+    <question image="IOS_L7_U2_A0_R_A1" answer="false"></question>
+    <question image="IOS_L7_U2_A0_R_A2" answer="false"></question>
+    <question image="IOS_L7_U2_A0_R_A3" answer="false"></question>
+    <question image="IOS_L7_U2_A0_R_A4" answer="true"></question>
+    <question image="IOS_L7_U2_A0_R_A5" answer="false"></question>
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_7_Q">
+    <question image="IOS_L7_U2_A0_R_A1" answer="false"></question>
+    <question image="IOS_L7_U2_A0_R_A2" answer="false"></question>
+    <question image="IOS_L7_U2_A0_R_A3" answer="false"></question>
+    <question image="IOS_L7_U2_A0_R_A4" answer="true"></question>
+    <question image="IOS_L7_U2_A0_R_A5" answer="false"></question>
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_8_Q">
+    <question image="IOS_L7_U2_A0_R_A1" answer="false"></question>
+    <question image="IOS_L7_U2_A0_R_A2" answer="false"></question>
+    <question image="IOS_L7_U2_A0_R_A3" answer="true"></question>
+    <question image="IOS_L7_U2_A0_R_A4" answer="false"></question>
+    <question image="IOS_L7_U2_A0_R_A5" answer="false"></question>
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_9_Q">
+    <question image="IOS_L7_U2_A0_N_A1" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A2" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A7" answer="true"></question>
+    <question image="IOS_L7_U2_A0_N_A8" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A9" answer="false"></question>
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_10_Q">
+    <question image="IOS_L7_U2_A0_N_A1" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A6" answer="true"></question>
+    <question image="IOS_L7_U2_A0_N_A7" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A8" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A9" answer="false"></question>
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_12_Q">
+    <question image="IOS_L7_U2_A0_N_A1" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A2" answer="true"></question>
+    <question image="IOS_L7_U2_A0_N_A7" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A8" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A9" answer="false"></question>
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_13_Q">
+    <question image="IOS_L7_U2_A0_N_A1" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A2" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A7" answer="true"></question>
+    <question image="IOS_L7_U2_A0_N_A8" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A9" answer="false"></question>
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_14_Q">
+    <question image="IOS_L7_U2_A0_N_A1" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A2" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A7" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A8" answer="true"></question>
+    <question image="IOS_L7_U2_A0_N_A9" answer="false"></question>
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_15_Q">
+    <question image="IOS_L7_U2_A0_N_A1" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A2" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A7" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A8" answer="false"></question>
+    <question image="IOS_L7_U2_A0_N_A9" answer="true"></question>
+    <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_16_Q">
+      <question image="IOS_L7_U2_A0_R_A1" answer="false"></question>
+      <question image="IOS_L7_U2_A0_R_A6" answer="false"></question>
+      <question image="IOS_L7_U2_A0_R_A7" answer="false"></question>
+      <question image="IOS_L7_U2_A0_R_A8" answer="false"></question>
+      <question image="IOS_L7_U2_A0_R_A9" answer="true"></question>
+    </category>
+  </category>
+</questions>
