@@ -96,18 +96,18 @@
     <question image="IOS_L7_U2_A0_N_A8" answer="true"></question>
     <question image="IOS_L7_U2_A0_N_A9" answer="false"></question>
   </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_16_Q">
+      <question image="IOS_L7_U2_A0_R_A1" answer="false"></question>
+      <question image="IOS_L7_U2_A0_R_A6" answer="false"></question>
+      <question image="IOS_L7_U2_A0_R_A7" answer="false"></question>
+      <question image="IOS_L7_U2_A0_R_A8" answer="false"></question>
+      <question image="IOS_L7_U2_A0_R_A9" answer="true"></question>
+  </category>
   <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_15_Q">
     <question image="IOS_L7_U2_A0_N_A1" answer="false"></question>
     <question image="IOS_L7_U2_A0_N_A2" answer="false"></question>
     <question image="IOS_L7_U2_A0_N_A7" answer="false"></question>
     <question image="IOS_L7_U2_A0_N_A8" answer="false"></question>
     <question image="IOS_L7_U2_A0_N_A9" answer="true"></question>
-    <category type="graphicGraphic" question="Select the equal value." image="IOS_L7_U2_A0_16_Q">
-      <question image="IOS_L7_U2_A0_R_A1" answer="false"></question>
-      <question image="IOS_L7_U2_A0_R_A6" answer="false"></question>
-      <question image="IOS_L7_U2_A0_R_A7" answer="false"></question>
-      <question image="IOS_L7_U2_A0_R_A8" answer="false"></question>
-      <question image="IOS_L7_U2_A0_R_A9" answer="true"></question>
-    </category>
   </category>
 </questions>
